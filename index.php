@@ -6,5 +6,6 @@
 	</head>
 	<body>
 		<h2>This is a bootstrap page.</h2>
+
 	</body>
 </html>
